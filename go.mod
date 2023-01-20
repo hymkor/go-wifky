@@ -2,6 +2,4 @@ module github.com/hymkor/go-wifky
 
 go 1.19
 
-require github.com/nyaosorg/go-windows-mbcs v0.0.0-20220625075624-7e48d6c9b323
-
-require golang.org/x/sys v0.0.0-20220624220833-87e55d714810 // indirect
+require golang.org/x/text v0.6.0
